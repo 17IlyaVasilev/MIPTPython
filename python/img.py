@@ -1,0 +1,20 @@
+import pygame
+
+pygame.init()
+
+Lemon = pygame.image.load('Gif/Lemon.png')
+Gazeta = pygame.image.load('Gif/Gazeta.png')
+Coffee = pygame.image.load('Gif/Coffee.png')
+Pizza = pygame.image.load('Gif/Pizza.png')
+Restaurant = pygame.image.load('Gif/Restaurant.png')
+Play = pygame.image.load('Gif/Play.png')
+Pause = pygame.image.load('Gif/Pause.png')
+BackGround = pygame.image.load('Gif/BackGround.png')
+Menu = pygame.image.load('Gif/Menu.png')
+Menu1 = pygame.image.load('Gif/Menu1.png')
+Menu2 = pygame.image.load('Gif/Menu2.png')
+SoundOn = pygame.image.load('Gif/SoundOn.png')
+SoundOff = pygame.image.load('Gif/SoundOff.png')
+Music1 = pygame.mixer.Sound('Gif/Music 1.mp3')
+Music2 = pygame.mixer.Sound('Gif/Music 2.mp3')
+Music3 = pygame.mixer.Sound('Gif/Music 3.mp3')
